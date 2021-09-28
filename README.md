@@ -1,6 +1,6 @@
 ## SEGUIMIENTO FACIAL EN TIEMPO REAL EN ENTORNO WEB
 
-<img src="/imgs/Reconocimiento facial v1.png" style="width:400px;">
+<img src="Reconocimiento facial v1.png" style="width:400px;">
 
 ##  Autores
 
