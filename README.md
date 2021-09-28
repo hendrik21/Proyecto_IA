@@ -17,9 +17,13 @@ Hendrik López Dueñas, Jose Alejandro Carrillo Téllez
 
 El dataset usado es conocido como "WIDER face", un conjunto de más de 32000 imágenes, con alrededor de 394.000 rostros en ellas.
 
-    Documentación del dataset: http://shuoyang1213.me/WIDERFACE/
+Documentación del dataset: 
+    
+    http://shuoyang1213.me/WIDERFACE/
 
-    Descargar dataset: https://drive.google.com/file/d/0B6eKvaijfFUDQUUwd21EckhUbWs/view?resourcekey=0-uqJKCOtf9doOp-YYdt7YnQ
+Descargar dataset: 
+
+    https://drive.google.com/file/d/0B6eKvaijfFUDQUUwd21EckhUbWs/view?resourcekey=0-uqJKCOtf9doOp-YYdt7YnQ
 
 ## Modelos
 
